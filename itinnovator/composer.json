@@ -1,0 +1,8 @@
+{
+	"name": "itinnovator/myphp-app-framework",
+    "description": "The IT-Innovator PHP App Framework.",
+    "keywords": ["framework", "Framework associated with myphp app: https://github.com/itinnovator/myphp-app"],
+	"require": {
+        "php": ">=5.5.9"
+    }
+}
